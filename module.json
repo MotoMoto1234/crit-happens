@@ -1,0 +1,16 @@
+{
+  "id": "crit-happens",
+  "title": "Crit Happens",
+  "description": "Broadcast the rolling player's chosen sounds to everyone for a natural 1 or 20 on a d20 and 100 on a d100.",
+  "version": "1.3.0",
+  "socket": true,
+  "url": "https://github.com/MotoMoto1234/crit-happens",
+  "manifest": "https://github.com/MotoMoto1234/crit-happens/releases/latest/download/module.json",
+  "download": "https://github.com/MotoMoto1234/crit-happens/releases/download/v1.3.0/crit-happens-v1.3.0.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "esmodules": ["scripts/main.js"]
+}
